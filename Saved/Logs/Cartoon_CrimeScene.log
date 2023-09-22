@@ -4379,3 +4379,4 @@ LogConfig: Set CVar [[r.Occlusion.SingleRHIThreadStall:1]]
 [2023.09.22-02.22.34:174][683]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 291 ms)
 [2023.09.22-02.22.34:182][683]AssetCheck: New page: Asset Save: MiniGamePaperCharchter
 [2023.09.22-02.22.34:182][683]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MiniGame/MiniGamePaperCharchter.MiniGamePaperCharchter
+[2023.09.22-02.23.39:122][975]LogDerivedDataCache: C:/Users/lilyt/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.081 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1096 files in 1881 folders with total size 112 MiB.
