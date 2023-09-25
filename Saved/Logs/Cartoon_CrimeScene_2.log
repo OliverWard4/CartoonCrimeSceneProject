@@ -1155,3 +1155,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.09.25-21.56.32:249][179]LogFileHelpers: Loading map 'Level1' took 3.641
 [2023.09.25-21.56.32:257][179]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.000674s (0.523346s overbudget)
 [2023.09.25-21.56.32:283][180]LogAutomationController: Ignoring very large delta of 3.83 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.09.25-21.58.18:717][985]LogDerivedDataCache: C:/Users/Oliver Ward/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.112 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3808 files in 5717 folders with total size 163 MiB.
